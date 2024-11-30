@@ -37,7 +37,7 @@ Welcome to the **GAGFEST**, a collection of 12 mini-Pygames and AI applications 
 
 ## Demo
 
-![GAGFEST SCREENSHOT](https://photos.fife.usercontent.google.com/pw/AP1GczNwkWQ5wFkOd_8M35bqay_4A4n6oqRR_QCKREh3nQFt8mQ_dZI835ye=w1046-h1175-s-no-gm?authuser=0)
+![GAGFEST SCREENSHOT](assets/images/GAGFEST_Screenshot.png)
 
 ## Installation
 
