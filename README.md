@@ -389,10 +389,6 @@ Bonus!!! (A little louder than other pygames, be careful!!!)
 <<<<<<< HEAD
 MIT License. The 1 and 12 are inspired by  [Tim Holman](https://github.com/tholman)
 
-----------   here is the thing When I click the screenshot it says Error Fetching Resource
-=======
-MIT License. The 1 and 12 are inspired by  [Tim Holman](https://github.com/tholman) 
-
 ----------
 
 >>>>>>> 1071233d8e959dd2d06c72f0e8900f95ca1609b8
